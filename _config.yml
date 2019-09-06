@@ -7,18 +7,18 @@ exclude:
   - "LICENSE.md"
   - "*.gemspec"
 
-keep_files:
-  - "CNAME"
-  - ".git"
-  - ".gitignore"
+# keep_files:
+#   - "CNAME"
+#   - ".git"
+#   - ".gitignore"
 
 
 # Site settings
 title: Airspace
 subtitle: "A free HTML5 agency template"
-url: "http://ndrewtl.github.io" # the base hostname & protocol for your site
+url: "lichenlei.com" # the base hostname & protocol for your site
 # baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
-baseurl: "/airspace-jekyll"
+baseurl: "/."
 cover: "/assets/cover.png"
 logo: "/assets/logo.png"
 
