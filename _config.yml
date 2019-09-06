@@ -1,9 +1,9 @@
 theme:forty_jekyll_theme
 # site settings
-title: Forty
-subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+title: Living a happy life
+subtitle: by lcl
+# email: 
+# description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
 # baseurl: "/forty_jekyll_theme" # the subpath of your site, e.g. /blog
 url: lichenlei.com
 # author:
@@ -15,7 +15,7 @@ url: lichenlei.com
 # phone: (716) 555-5555
 
 # homepage tiles
-tiles-source: pages # accepts "posts" or "pages"
+tiles-source: posts # accepts "posts" or "pages"
 tiles-count: 6
 
 # social settings
